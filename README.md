@@ -15,7 +15,7 @@ deep and/or latest knowledge of  a particular feature/content. Also I also like 
 # add your API key to the environment variable
 > export GEMINI_API_KEY=your_key
 # use the website-chat command to start a chat session
-> website-chat  -u https://docs.sentry.io/platforms/python/  -llm 'google-gla:gemini-2.0-flash'
+> website-chat  -u https://www.allaboutbirds.org/news/how-to-recognize-woodpeckers-by-their-drumming-sounds/ -m 1  -llm 'google-gla:gemini-2.0-flash'
 Crawling website...
 [INIT].... → Crawl4AI 0.5.0.post8
 Building index ...
